@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 parent_title: Video Lectures
+parent_type: CourseSection
 parent_uid: 7dbfa566-6c42-75ab-fc10-43882dc5419d
 title: Scattering and Identical Particles
 uid: 85d41ba6-acb8-505b-da8c-13ca1903dfca

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Term Paper
+parent_type: CourseSection
 parent_uid: 7a9328d4-e766-d2bf-34c8-47b147aad85e
 title: The LaTeX Templates
 uid: 4d54df96-68ab-f323-d57a-26d3e81b5eac

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Term Paper
+parent_type: CourseSection
 parent_uid: 7a9328d4-e766-d2bf-34c8-47b147aad85e
 title: Writing Tips
 uid: 8dd2e531-632f-5bef-b1a4-5eff30474ba7

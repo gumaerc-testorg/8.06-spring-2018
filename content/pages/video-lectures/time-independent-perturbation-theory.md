@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 parent_title: Video Lectures
+parent_type: CourseSection
 parent_uid: 7dbfa566-6c42-75ab-fc10-43882dc5419d
 title: Time Independent Perturbation Theory and WKB Approximation
 uid: a6852222-6ea8-a8d5-38bb-6e4b9a19b542

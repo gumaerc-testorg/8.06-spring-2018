@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: The LaTeX Templates
 parent_type: CourseSection
+parent_uid: 4d54df96-68ab-f323-d57a-26d3e81b5eac
 resourcetype: Document
 title: 8.06 Quantum Physics III Term Paper Proposal
 uid: ed4bf42f-ee07-ef1e-1a82-3148a3d745f9

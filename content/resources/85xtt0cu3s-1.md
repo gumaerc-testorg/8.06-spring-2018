@@ -5,6 +5,7 @@ file: /media/courses/8-06-quantum-physics-iii-spring-2018/0a4e9ffd6c613712eb1418
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: 0a4e9ffd-6c61-3712-eb14-18fbe0a874d2

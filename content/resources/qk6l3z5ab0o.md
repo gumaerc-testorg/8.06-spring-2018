@@ -5,6 +5,7 @@ file: /media/courses/8-06-quantum-physics-iii-spring-2018/14817af9b5eb23dd07ab85
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: 14817af9-b5eb-23dd-07ab-856260ad6fcf

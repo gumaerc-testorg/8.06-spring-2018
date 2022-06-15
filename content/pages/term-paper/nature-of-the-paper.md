@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "This section explains \u201Cproblem\u201D or \u201Cphenomenon\u201D\
+  \ in quantum mechanics."
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Term Paper

@@ -1,11 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-06-quantum-physics-iii-spring-2018/140a4ba338255c00874eac8b707938b0_fFSii5VxO4I.vtt
+file: /courses/8-06-quantum-physics-iii-spring-2018/140a4ba338255c00874eac8b707938b0_fFSii5VxO4I.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
-parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: 140a4ba3-3825-5c00-874e-ac8b707938b0

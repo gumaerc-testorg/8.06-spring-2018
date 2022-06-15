@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section explains the schedule and due dates for the paper.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Term Paper

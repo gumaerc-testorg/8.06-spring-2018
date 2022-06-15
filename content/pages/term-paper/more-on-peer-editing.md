@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section describes how to do peer editing as an editor.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Term Paper

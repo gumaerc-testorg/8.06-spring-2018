@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section gives a list of possible topics for the paper.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Term Paper
+parent_type: CourseSection
 parent_uid: 7a9328d4-e766-d2bf-34c8-47b147aad85e
 title: Possible Topics
 uid: 44da942e-db49-1d31-f419-b0564c26c27d
@@ -14,14 +18,14 @@ Below is a list of possible topics:
 2.  Nuclear Magnetic Resonance. Since we have spent some time on this in class, you should go beyond it. Some possibilities are dynamic nuclear polarization, nuclear quadrupole resonance, composite pulses, spin-echo, liquid vs solid-state NMR, relaxation mechanisms, or its application in particular experimental/medical contexts.
 3.  Magnetic monopoles, gauge invariance, and the Dirac quantization condition for the magnetic charge of a magnetic monopole.
 4.  Scattering off a magnetic flux tube.
-5.  Bell’s theorem and its variants. Again since we have seen this in _[8.05 Quantum Physics II](/courses/8-05-quantum-physics-ii-fall-2013/)_, you will need to go beyond it. Some possibilites are the Tsirelson bound, the question of loopholes and/or various experimental tests or a discussion of other nonlocal games.
+5.  Bell’s theorem and its variants. Again since we have seen this in _[8.05 Quantum Physics II](/courses/8-05-quantum-physics-ii-fall-2013)_, you will need to go beyond it. Some possibilites are the Tsirelson bound, the question of loopholes and/or various experimental tests or a discussion of other nonlocal games.
 6.  Neutrino oscillations in vacuum.
 7.  Oscillation phenomena involving kaons and/or B mesons.
 8.  The solar neutrino problem.
 9.  The shell model of nuclear structure.
 10.  Application of random matrix theory to nuclear physics.
 11.  The properties of the deuteron.
-12.  The α-decay of 238U.
+12.  The α-decay of {{< sup "238" >}}U.
 13.  The rotational and vibrational spectrum of diatomic molecules.
 14.  Dynamical _SU_(_n_) symmetry of the harmonic oscillator in _n_ dimensions.
 15.  Supersymmetric quantum mechanics, beyond what we did in 8.05.

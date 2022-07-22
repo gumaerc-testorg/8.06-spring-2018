@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-06-quantum-physics-iii-spring-2018/29ce96a3c8f051d999e7b884aaf0e07a_KbAgNwrpUTw.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

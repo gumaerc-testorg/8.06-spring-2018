@@ -33,8 +33,8 @@ Here are some tips that you may find useful.
 - Be rigorously consistent in your notation, even at the risk of being repetitive.
 - Clearly define every quantity that you introduce. It is acceptable to do this immediately either before the quantity is used, or immediately after. An example of this is: “The hydrogen atom potential is
 
-        `(\displaystyle V = -\frac{e^2}{r}\) ,`
+          \\(\\displaystyle V = -\\frac{e^2}{r}\\) ,
 
-       where \\(e\\) is the electron charge and \\(r\\) is the distance between the electron and the proton.”
+         where \\(e\\) is the electron charge and \\(r\\) is the distance between the electron and the proton.”
 
 - Avoid ambiguous references, such as “this shows”. Instead, use references like “Eq. 4.1 shows.” The LaTeX commands `\label` and `\ref` are useful here.

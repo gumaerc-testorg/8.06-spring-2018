@@ -28,7 +28,8 @@
     "website": "8-06-quantum-physics-iii-spring-2018"
   },
   "course_title": "Quantum Physics III",
-  "course_description": "This course is a continuation of [_8.05 Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013/). It introduces some of the important model systems studied in contemporary physics, including two-dimensional electron systems, the fine structure of hydrogen, lasers, and particle scattering.\n\nAn edX version of this course,\u00a0_[8.06x Applications of Quantum Mechanics](https://www.edx.org/course/applications-of-quantum-mechanics)_, is available starting on February 20, 2019 and running for 19 weeks.\n",
+  "site_short_id": "8.06-spring-2018",
+  "course_description": "This course is a continuation of [*8.05 Quantum Physics II*](/courses/8-05-quantum-physics-ii-fall-2013/). It introduces some of the important model systems studied in contemporary physics, including two-dimensional electron systems, the fine structure of hydrogen, lasers, and particle scattering. The lectures and lecture notes for this course form the basis of Zwiebach\u2019s textbook *Mastering Quantum Mechanics* published by\u00a0[MIT Press](https://mitpress.mit.edu/books/mastering-quantum-mechanics)\u00a0in April 2022.",
   "department_numbers": [
     "8"
   ],
@@ -44,6 +45,6 @@
     "Lecture Notes",
     "Projects"
   ],
-  "site_uid": "a5f0bb10-2eef-4a00-b285-36b8e406c7e7",
+  "site_uid": "e7abfec3-bb7b-4ffe-9ce0-1e84d8fcc62d",
   "title": "Course Metadata"
 }

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-06-quantum-physics-iii-spring-2018/55c869f0563757eab2c39783ee4ccca8_gRlrh4lRapM.vtt
+file: courses/8-06-quantum-physics-iii-spring-2018/55c869f0563757eab2c39783ee4ccca8_gRlrh4lRapM.vtt
+file_size: 8625
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

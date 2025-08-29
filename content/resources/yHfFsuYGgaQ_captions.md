@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: null
+file: /ol-ocw-studio-app/courses/8-06-quantum-physics-iii-spring-2018/yHfFsuYGgaQ_captions.webvtt
 file_size: 12122
 file_type: application/x-subrip
 learning_resource_types: []

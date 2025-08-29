@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: courses/8-06-quantum-physics-iii-spring-2018/541affc80faea8bdc46074db237665ec_GZzrMyY01tE.srt
+file: /ol-ocw-studio-app/courses/8-06-quantum-physics-iii-spring-2018/541affc80faea8bdc46074db237665ec_GZzrMyY01tE.srt
 file_size: 16354
 file_type: application/x-subrip
 learning_resource_types: []

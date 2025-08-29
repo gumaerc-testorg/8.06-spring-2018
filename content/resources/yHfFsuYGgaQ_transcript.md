@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: null
+file: /ol-ocw-studio-app/courses/8-06-quantum-physics-iii-spring-2018/yHfFsuYGgaQ_transcript.pdf
 file_size: 25773
 file_type: application/pdf
 learning_resource_types: []
